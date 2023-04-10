@@ -18,3 +18,8 @@ collection de scripts pour la calculatrice numworks
 ## Wave.py :
 
 ![image](https://user-images.githubusercontent.com/77466619/230951110-8416e7f8-c7c9-4c1a-9bd1-24402775247a.png)
+
+
+## cube3D.py :
+
+![image](https://user-images.githubusercontent.com/77466619/230967200-5682ec36-5404-449e-8b85-17cf24f8a12f.png)
